@@ -1,5 +1,6 @@
 # My current extensions
 
+```
 code --install-extension AykutSarac.jsoncrack-vscode
 code --install-extension brittanychiang.halcyon-vscode
 code --install-extension Cardinal90.multi-cursor-case-preserve
@@ -19,6 +20,7 @@ code --install-extension sidthesloth.html5-boilerplate
 code --install-extension styled-components.vscode-styled-components
 code --install-extension withfig.fig
 code --install-extension yoavbls.pretty-ts-errors
+```
 
 # Export installed extensions command
 
